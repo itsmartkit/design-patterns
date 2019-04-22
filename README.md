@@ -6,3 +6,4 @@ builder--生成器模式<br/>
 prototype--原型模式<br/>
 dapter--适配器模式<br/>
 proxy--代理模式<br/>
+bridge--桥接模式<br/>
