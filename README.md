@@ -9,3 +9,4 @@ proxy--代理模式<br/>
 bridge--桥接模式<br/>
 decorator--装饰器模式<br/>
 facade--外观模式<br/>
+flyweight--享元模式<br/>
