@@ -13,3 +13,5 @@ decorator--装饰器模式<br/>
 facade--外观模式<br/>
 flyweight--享元模式<br/>
 composite--组合模式<br/>
+#### 行为型模式
+templatemethod--模板方法模式<br/>
