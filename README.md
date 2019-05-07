@@ -16,3 +16,4 @@ composite--组合模式<br/>
 #### 行为型模式
 templatemethod--模板方法模式<br/>
 strategy--策略模式<br/>
+command--命令模式<br/>
