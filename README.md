@@ -18,3 +18,4 @@ templatemethod--模板方法模式<br/>
 strategy--策略模式<br/>
 command--命令模式<br/>
 chain--责任链模式<br/>
+state--状态模式<br/>
