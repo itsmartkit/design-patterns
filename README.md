@@ -20,3 +20,4 @@ command--命令模式<br/>
 chain--责任链模式<br/>
 state--状态模式<br/>
 observer--观察者模式<br/>
+mediator--中介者模式<br/>
