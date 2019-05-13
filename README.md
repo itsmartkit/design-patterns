@@ -24,3 +24,4 @@ mediator--中介者模式<br/>
 iterator--迭代器模式<br/>
 visitor--访问者模式<br/>
 memento--备忘录模式<br/>
+interpreter--解释器模式<br/>
